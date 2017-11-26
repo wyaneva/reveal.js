@@ -1,0 +1,59 @@
+#logos #inf {
+  float: left;
+}
+
+#logos #ppar {
+  float: right;
+}
+
+#challenges {
+  vertical-align:center;
+}
+
+.reveal section img {
+  box-shadow: none;
+  border-style: none;
+}
+
+.code {
+  margin: 5pt;
+}
+
+.left {
+  float: left
+}
+
+.right {
+  float: right
+}
+
+.center {
+  float: center
+}
+
+.left-text {
+  float: left;
+  text-align: left;
+}
+
+.right-text {
+  float: right;
+  text-align: right;
+}
+
+.center-text {
+  float: center;
+  text-align: center;
+}
+
+.left-col {
+  float: left;
+  text-align: left;
+  width:50%
+}
+
+.right-col {
+  float: right;
+  text-align: right;
+  width:50%
+}
