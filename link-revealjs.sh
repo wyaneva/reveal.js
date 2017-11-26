@@ -7,7 +7,7 @@ ln -s ~/reveal.js/js js
 ln -s ~/reveal.js/plugin plugin
 ln -s ~/reveal.js/package.json package.json
 ln -s ~/reveal.js/Gruntfile.js
-ln -s ~/reveal.js/vanya-style.js
+ln -s ~/reveal.js/vanya-style.css
 
 npm install
 grunt serve
