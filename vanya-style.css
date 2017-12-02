@@ -72,4 +72,6 @@
   vertical-align: top; 
 }
 
-
+.redtext {
+  color: red;
+}
