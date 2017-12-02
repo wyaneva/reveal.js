@@ -31,6 +31,10 @@
   float: center
 }
 
+.center-vert {
+  vertical-align: center;
+}
+
 .left-text {
   float: left;
   text-align: left;
@@ -57,3 +61,15 @@
   text-align: right;
   width:50%
 }
+
+/* 
+ * Fonts
+ */
+.reveal medium {
+  display: inline-block;
+  font-size: 0.8em;
+  line-height: 1.2em;
+  vertical-align: top; 
+}
+
+
