@@ -41,12 +41,6 @@
     "socket.io": "^1.4.8"
   },
   "license": "MIT",
-  "dependencies": {
-    "fusioncharts": "^3.12.2"
-  }
-}
-
-{
   "requires": true,
   "lockfileVersion": 1,
   "dependencies": {
