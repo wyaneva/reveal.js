@@ -52,14 +52,17 @@
 
 .left-col {
   float: left;
-  text-align: left;
   width:50%
 }
 
 .right-col {
   float: right;
-  text-align: right;
   width:50%
+}
+
+.bottom {
+  float: bottom;
+  text-align: bottom;
 }
 
 /* 
