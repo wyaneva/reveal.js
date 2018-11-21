@@ -55,9 +55,19 @@
   width:50%
 }
 
+.left-two-thirds {
+  float: left;
+  width:66%
+}
+
 .right-col {
   float: right;
   width:50%
+}
+
+.right-one-third {
+  float: right;
+  width: 33%;
 }
 
 .bottom {
