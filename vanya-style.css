@@ -10,6 +10,24 @@
   vertical-align: middle;
 }
 
+/*
+ * Only for informatics background
+ */
+body {
+  background-image: url("images/inf-background.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+/*
+ * Only for informatics background
+ */
+.reveal .slides {
+  margin-top: 50pt;
+  margin-left: 50pt;
+}
+
 .reveal section img {
   box-shadow: none;
   border-style: none;
