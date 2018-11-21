@@ -11,14 +11,14 @@ section.has-dark-background, section.has-dark-background h1, section.has-dark-ba
  * GLOBAL STYLES
  *********************************************/
 body {
-  background: #ffffff;
-  background-color: #ffffff; }
+  background: #b2dfdb;
+  background-color: #b2dfdb; }
 
 .reveal {
   font-family: "Source Sans Pro", Helvetica, sans-serif;
   font-size: 42px;
   font-weight: normal;
-  color: #222; }
+  color: #212121; }
 
 ::selection {
   color: #fff;
@@ -45,7 +45,7 @@ body {
 .reveal h5,
 .reveal h6 {
   margin: 0 0 20px 0;
-  color: #222;
+  color: #212121;
   font-family: "Source Sans Pro", Helvetica, sans-serif;
   font-weight: 600;
   line-height: 1.2;
