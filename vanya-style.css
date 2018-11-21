@@ -15,7 +15,7 @@
  */
 body {
   background-image: url("images/inf-background.jpg");
-  background-position: center;
+  background-position: absolute;
   background-repeat: no-repeat;
   background-size: 100%;
 }
@@ -24,8 +24,9 @@ body {
  * Only for informatics background
  */
 .reveal .slides {
-  margin-top: 50pt;
-  margin-left: 50pt;
+  //margin-top: 10%;
+  margin-top: 5%;
+  margin-left: 5%;
 }
 
 .reveal section img {
