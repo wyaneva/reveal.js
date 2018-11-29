@@ -12,22 +12,22 @@
 
 /*
  * Only for informatics background
- */
 body {
   background-image: url("images/inf-background.jpg");
   background-position: absolute;
   background-repeat: no-repeat;
   background-size: 100%;
 }
+*/
 
 /*
  * Only for informatics background
- */
 .reveal .slides {
   //margin-top: 10%;
   margin-top: 5%;
   margin-left: 5%;
 }
+*/
 
 .reveal section img {
   box-shadow: none;
