@@ -74,6 +74,11 @@ body {
   width:50%
 }
 
+.left-one-third {
+  float: left;
+  width:33%
+}
+
 .left-two-thirds {
   float: left;
   width:66%
@@ -89,9 +94,25 @@ body {
   width: 33%;
 }
 
+.right-two-thirds {
+  float: right;
+  width: 66%;
+}
+
 .bottom {
   float: bottom;
   text-align: bottom;
+}
+
+/*
+ * Columns
+ */
+.container{
+    display: flex;
+}
+
+.col{
+    flex: 1;
 }
 
 /* 
@@ -107,3 +128,4 @@ body {
 .redtext {
   color: red;
 }
+
