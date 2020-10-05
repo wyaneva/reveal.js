@@ -29,6 +29,12 @@ body {
 }
 */
 
+
+#hor-list li{
+  float : left;
+  margin-right: 50px;
+}
+
 .reveal section img {
   box-shadow: none;
   border-style: none;
