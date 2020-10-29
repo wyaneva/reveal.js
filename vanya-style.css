@@ -23,12 +23,17 @@ body {
 /*
  * Only for informatics background
 .reveal .slides {
-  //margin-top: 10%;
+  margin-top: 10%;
   margin-top: 5%;
   margin-left: 5%;
 }
 */
 
+/*
+body {
+  background: #fafafa;
+}
+*/
 
 #hor-list li{
   float : left;
@@ -135,3 +140,12 @@ body {
   color: red;
 }
 
+.reveal .slides section .fragment.step {
+  opacity: 0;
+  display: inline;
+}
+
+.reveal .slides section .fragment.step.current-fragment {
+  opacity: 1;
+  display: inline;
+}
